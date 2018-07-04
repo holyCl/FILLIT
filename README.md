@@ -11,7 +11,7 @@ In this particular project, the aim is to find a way to assemble a given Tetrimi
 
 A Tetriminos is a 4-blocks geometric figure most people probably already heard of, thanks to the popular game Tetris.
 
-Please find full description of the project in [this subject](https://github.com/Navalag/fillit/blob/master/fillit.en.pdf).
+Please find full description of the project in [this subject](https://github.com/holyCl/Fillit/blob/master/fillit.en.pdf).
 
 ### Goals:
 
